@@ -1,7 +1,7 @@
 {
   "domain": "wled_legacy",
   "name": "WLED Legacy",
-  "codeowners": ["kravchenkodev"],
+  "codeowners": ["@kravchenkodev"],
   "config_flow": true,
   "documentation": "https://github.com/kravchenkodev/ha-wled-legacy",
   "integration_type": "device",
